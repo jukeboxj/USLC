@@ -1,5 +1,5 @@
 # USLC-Predict
-Predict the outcome of US labor certification process
+Predict the outcome of US labor certification process based on applicant info
 
 
 ## Data Description
